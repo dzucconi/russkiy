@@ -1,0 +1,19 @@
+{
+  "name": "the-english",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.10",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "frame-interval": "^1.0.47"
+  }
+}
