@@ -13,3 +13,21 @@ body {
   pointer-events: none;
   user-select: none;
 }
+
+p {
+  margin: 1em auto;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  > span {
+    display: inline-block;
+    width: 1em;
+    text-align: center;
+  }
+}

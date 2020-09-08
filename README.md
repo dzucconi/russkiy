@@ -1,6 +1,6 @@
 # the-english
 
-There are 274937 words. Running at 38.18569444444445 words per second, it will complete in ~2 hours.
+There are 274937 words. Running at 38.18569444444445 words per second, it will complete in 2 hours.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2a8f7c91-062b-4f6b-9cfd-34d790af10af/deploy-status)](https://app.netlify.com/sites/damonzucconi-the-english/deploys)
 
