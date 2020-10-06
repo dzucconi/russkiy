@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/jest": "26.0.14",
-    "jest": "26.5.0",
+    "jest": "26.5.2",
     "parcel": "1.12.4",
     "sass": "1.26.12",
     "ts-jest": "26.4.1",
