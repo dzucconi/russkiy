@@ -1,5 +1,5 @@
 {
-  "name": "the-english",
+  "name": "russkiy",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "typescript": "4.2.4"
   },
   "dependencies": {
-    "an-array-of-english-words": "^2.0.0",
-    "frame-interval": "^1.0.47"
+    "frame-interval": "^1.0.47",
+    "russian-words": "^1.0.1"
   }
 }

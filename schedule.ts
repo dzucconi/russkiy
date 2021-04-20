@@ -1,6 +1,6 @@
 import { remap, time } from "./util";
 import { WORDS_PER_SECOND, WORDS_PER_HOUR } from "./init";
-import words from "an-array-of-english-words";
+import { words } from "./data";
 
 type Index = {
   [letter: string]: {
@@ -12,15 +12,16 @@ type Index = {
 export const info = () => {
   return `There are ${
     words.length
-  } words. Running at ${WORDS_PER_SECOND} words per second, the work is ${
+  } words. Running at ${WORDS_PER_SECOND} words per second, the work will repeat every ${
     words.length / WORDS_PER_HOUR
-  } hours long.`;
+  } hour${words.length / WORDS_PER_HOUR === 1 ? "" : "s"}.`;
 };
 
 export const schedule = () => {
   const index = words.reduce((memo: Index, word, i) => {
     const letter = word.charAt(0);
-    if (!!memo[letter]) {
+
+    if (!!memo[letter] || letter === "") {
       return memo;
     }
 

@@ -1,4 +1,4 @@
-declare module "an-array-of-english-words" {
+declare module "russian-words" {
   const words: string[];
   export default words;
 }

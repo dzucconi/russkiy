@@ -1,8 +1,8 @@
-import words from "an-array-of-english-words";
+import { words } from "./data";
 import { FrameInterval } from "frame-interval";
 import { remap } from "./util";
 
-export const RUNTIME_IN_HOURS = 2;
+export const RUNTIME_IN_HOURS = 1;
 export const WORDS_PER_HOUR = words.length / RUNTIME_IN_HOURS;
 export const WORDS_PER_MINUTE = WORDS_PER_HOUR / 60;
 export const WORDS_PER_SECOND = WORDS_PER_MINUTE / 60;
