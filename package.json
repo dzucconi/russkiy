@@ -15,7 +15,7 @@
     "typescript": "4.2.4"
   },
   "dependencies": {
-    "frame-interval": "^1.0.47",
-    "russian-words": "^1.0.1"
+    "frame-interval": "1.0.47",
+    "russian-words": "1.0.1"
   }
 }

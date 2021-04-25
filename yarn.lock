@@ -3834,7 +3834,7 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-frame-interval@^1.0.47:
+frame-interval@1.0.47:
   version "1.0.47"
   resolved "https://registry.yarnpkg.com/frame-interval/-/frame-interval-1.0.47.tgz#a02fc3b2c59065cc54194266d1f2822547aefe77"
   integrity sha512-LYTH6VMF3NiS15GW6rMd2+mNsnnSpcDSZUyfH0BksL1k4CctWgXoxemftd19BfuQRYna+ly+DN8iFBez2T70aA==
@@ -6768,7 +6768,7 @@ run-parallel@^1.1.9:
   dependencies:
     queue-microtask "^1.2.2"
 
-russian-words@^1.0.1:
+russian-words@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/russian-words/-/russian-words-1.0.1.tgz#7effc2eae4336e3b9fcf0e47be6d119dafdfa0de"
   integrity sha512-t1TAOAfN5rUQtCzf+td0JaAg/TrCP7mAHJMqqrhKp0Itc2ZWw1uKV7y4lLSwjomgYtoQx+p6Lc4QOjeMaCmgZA==
