@@ -6,10 +6,10 @@ There are 106057 words. Running at 29.460277777777776 words per second, the work
 
 - **State**: production
 - **Production**:
-  - **URL**: https://русский.work.damonzucconi.com/
-  - **URL**: https://damonzucconi-русский.netlify.app/
-- **Host**: https://app.netlify.com/sites/damonzucconi-русский/overview
-- **Deploys**: Merged PRs to `dzucconi/русский#master` are automatically deployed to production. [Manually trigger a deploy](https://app.netlify.com/sites/damonzucconi-русский/deploys)
+  - **URL**: https://russkiy.work.damonzucconi.com/
+  - **URL**: https://damonzucconi-russkiy.netlify.app/
+- **Host**: https://app.netlify.com/sites/damonzucconi-russkiy/overview
+- **Deploys**: Merged PRs to `dzucconi/russkiy#master` are automatically deployed to production. [Manually trigger a deploy](https://app.netlify.com/sites/damonzucconi-russkiy/deploys)
 
 ## Schedule
 
