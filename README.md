@@ -1,5 +1,7 @@
 # русский
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea93a28c-ae83-4a99-94f2-1e33038ce4a3/deploy-status)](https://app.netlify.com/sites/damonzucconi-russkiy/deploys)
+
 There are 106057 words. Running at 29.460277777777776 words per second, the work will repeat every 1 hour. Everything has a schedule, if you can find out what it is.
 
 ## Meta
