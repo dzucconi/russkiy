@@ -9,7 +9,7 @@
     "@parcel/transformer-sass": "2.0.0-beta.2",
     "@types/jest": "26.0.23",
     "jest": "26.6.3",
-    "parcel": "2.0.0-beta.2",
+    "parcel": "2.0.0-nightly.668",
     "sass": "1.32.13",
     "ts-jest": "26.5.6",
     "typescript": "4.2.4"
