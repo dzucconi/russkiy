@@ -12,7 +12,7 @@
     "parcel": "2.0.0-beta.2",
     "sass": "1.52.1",
     "ts-jest": "26.5.6",
-    "typescript": "4.6.4"
+    "typescript": "4.7.2"
   },
   "dependencies": {
     "frame-interval": "1.0.47",
